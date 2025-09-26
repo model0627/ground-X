@@ -91,7 +91,7 @@
 		"svelte"
 	],
 	"dependencies": {
-		"@sveltejs/kit": "^2.37.1",
+		"@sveltejs/kit": "^2.43.5",
 		"@tauri-apps/plugin-notification": "^2.3.1",
 		"esm-env": "^1.2.2",
 		"rete": "^2.0.6",
